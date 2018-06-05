@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CommonDomains</key>
+	<array>
+        <string>gmail.com</string> <string>yahoo.com</string> <string>hotmail.com</string> <string>aol.com</string> <string>comcast.net</string> <string>me.com</string> <string>msn.com</string> <string>live.com</string> <string>sbcglobal.net</string> <string>ymail.com</string> <string>att.net</string> <string>mac.com</string> <string>cox.net</string> <string>verizon.net</string> <string>hotmail.co.uk</string> <string>bellsouth.net</string> <string>rocketmail.com</string> <string>aim.com</string> <string>yahoo.co.uk</string> <string>earthlink.net</string> <string>charter.net</string> <string>optonline.net</string> <string>shaw.ca</string> <string>yahoo.ca</string> <string>googlemail.com</string> <string>mail.com</string> <string>qq.com</string> <string>btinternet.com</string> <string>mail.ru</string> <string>live.co.uk</string> <string>naver.com</string> <string>rogers.com</string> <string>juno.com</string> <string>yahoo.com.tw</string> <string>live.ca</string> <string>walla.com</string> <string>163.com</string> <string>roadrunner.com</string> <string>telus.net</string> <string>embarqmail.com</string> <string>hotmail.fr</string> <string>pacbell.net</string> <string>sky.com</string> <string>sympatico.ca</string> <string>cfl.rr.com</string> <string>tampabay.rr.com</string> <string>q.com</string> <string>yahoo.co.in</string> <string>yahoo.fr</string> <string>hotmail.ca</string> <string>windstream.net</string> <string>hotmail.it</string> <string>web.de</string> <string>asu.edu</string> <string>gmx.de</string> <string>gmx.com</string> <string>insightbb.com</string> <string>netscape.net</string> <string>icloud.com</string> <string>frontier.com</string> <string>126.com</string> <string>hanmail.net</string> <string>suddenlink.net</string> <string>netzero.net</string> <string>mindspring.com</string> <string>ail.com</string> <string>windowslive.com</string> <string>netzero.com</string> <string>yahoo.com.hk</string> <string>yandex.ru</string> <string>mchsi.com</string> <string>cableone.net</string> <string>yahoo.com.cn</string> <string>yahoo.es</string> <string>yahoo.com.br</string> <string>cornell.edu</string> <string>ucla.edu</string> <string>us.army.mil</string> <string>excite.com</string> <string>ntlworld.com</string> <string>usc.edu</string> <string>nate.com</string> <string>outlook.com</string> <string>nc.rr.com</string> <string>prodigy.net</string> <string>wi.rr.com</string> <string>videotron.ca</string> <string>yahoo.it</string> <string>yahoo.com.au</string> <string>umich.edu</string> <string>ameritech.net</string> <string>libero.it</string> <string>yahoo.de</string> <string>rochester.rr.com</string> <string>cs.com</string> <string>frontiernet.net</string> <string>swbell.net</string> <string>msu.edu</string> <string>ptd.net</string> <string>proxymail.facebook.com</string> <string>hotmail.es</string> <string>austin.rr.com</string> <string>nyu.edu</string> <string>sina.com</string> <string>centurytel.net</string> <string>usa.net</string> <string>nycap.rr.com</string> <string>uci.edu</string> <string>hotmail.de</string> <string>yahoo.com.sg</string> <string>email.arizona.edu</string> <string>yahoo.com.mx</string> <string>ufl.edu</string> <string>bigpond.com</string> <string>unlv.nevada.edu</string> <string>yahoo.cn</string> <string>ca.rr.com</string> <string>google.com</string> <string>yahoo.co.id</string> <string>inbox.com</string> <string>fuse.net</string> <string>hawaii.rr.com</string> <string>talktalk.net</string> <string>gmx.net</string> <string>walla.co.il</string> <string>ucdavis.edu</string> <string>carolina.rr.com</string> <string>comcast.com</string> <string>live.fr</string> <string>blueyonder.co.uk</string> <string>live.cn</string> <string>cogeco.ca</string> <string>abv.bg</string> <string>tds.net</string> <string>centurylink.net</string> <string>yahoo.com.vn</string> <string>uol.com.br</string> <string>osu.edu</string> <string>san.rr.com</string> <string>rcn.com</string> <string>umn.edu</string> <string>live.nl</string> <string>live.com.au</string> <string>tx.rr.com</string> <string>eircom.net</string> <string>sasktel.net</string> <string>post.harvard.edu</string> <string>snet.net</string> <string>wowway.com</string> <string>live.it</string> <string>att.com</string> <string>vt.edu</string> <string>rambler.ru</string> <string>temple.edu</string> <string>cinci.rr.com</string> <string>alexruperez.com</string>
+        
+        
+        
+        
+	</array>
+	<key>CommonTLDs</key>
+	<array>
+		<string>com</string>
+		<string>net</string>
+		<string>ru</string>
+		<string>org</string>
+		<string>de</string>
+		<string>uk</string>
+		<string>jp</string>
+		<string>ca</string>
+		<string>fr</string>
+		<string>au</string>
+		<string>br</string>
+		<string>us</string>
+		<string>info</string>
+		<string>cn</string>
+		<string>dk</string>
+		<string>edu</string>
+		<string>gov</string>
+		<string>mil</string>
+		<string>ch</string>
+		<string>it</string>
+		<string>nl</string>
+		<string>se</string>
+		<string>no</string>
+		<string>es</string>
+		<string>me</string>
+	</array>
+</dict>
+</plist>
